@@ -1,0 +1,12 @@
+include ':Ch02_Hello_Triangle',
+        ':Ch08_Simple_VertexShader',
+        ':Ch09_MipMap2D',
+        ':Ch09_Simple_Texture2D',
+        ':Ch09_Simple_TextureCubemap',
+        ':Ch09_TextureWrap',
+        ':Ch10_MultiTexture',
+        ':Ch11_Stencil_Test',
+        ':Ch13_ParticleSystem',
+        ':Ch99_Appendix01_Teapot_ES10',
+        ':Ch99_Appendix02_Teapot_ES20'
+
